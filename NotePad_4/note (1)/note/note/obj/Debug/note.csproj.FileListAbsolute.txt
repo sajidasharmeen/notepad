@@ -1,0 +1,28 @@
+C:\Users\Stock IT\Documents\Visual Studio 2008\Projects\Project1\note\note\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stock IT\Documents\Visual Studio 2008\Projects\Project1\note\note\obj\Debug\note.Form1.resources
+C:\Users\Stock IT\Documents\Visual Studio 2008\Projects\Project1\note\note\obj\Debug\note.Properties.Resources.resources
+C:\Users\Stock IT\Documents\Visual Studio 2008\Projects\Project1\note\note\obj\Debug\note.csproj.GenerateResource.Cache
+C:\Users\Stock IT\Documents\Visual Studio 2008\Projects\Project1\note\note\bin\Debug\note.exe
+C:\Users\Stock IT\Documents\Visual Studio 2008\Projects\Project1\note\note\bin\Debug\note.pdb
+C:\Users\Stock IT\Documents\Visual Studio 2008\Projects\Project1\note\note\obj\Debug\note.exe
+C:\Users\Stock IT\Documents\Visual Studio 2008\Projects\Project1\note\note\obj\Debug\note.pdb
+C:\Documents and Settings\ayeshakhaliq\My Documents\Downloads\note\note\obj\Debug\note.exe
+C:\Documents and Settings\ayeshakhaliq\My Documents\Downloads\note\note\obj\Debug\note.pdb
+C:\Documents and Settings\ayeshakhaliq\My Documents\Downloads\note\note\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ayeshakhaliq\My Documents\Downloads\note\note\obj\Debug\note.Findandtreplacement.resources
+C:\Documents and Settings\ayeshakhaliq\My Documents\Downloads\note\note\obj\Debug\note.Form1.resources
+C:\Documents and Settings\ayeshakhaliq\My Documents\Downloads\note\note\obj\Debug\note.Properties.Resources.resources
+C:\Documents and Settings\ayeshakhaliq\My Documents\Downloads\note\note\obj\Debug\note.csproj.GenerateResource.Cache
+C:\Documents and Settings\ayeshakhaliq\My Documents\Downloads\note\note\bin\Debug\note.exe
+C:\Documents and Settings\ayeshakhaliq\My Documents\Downloads\note\note\bin\Debug\note.pdb
+Z:\ACCP\DISM\C#\C #\my\project\note (1)\note\note\obj\Debug\note.exe
+Z:\ACCP\DISM\C#\C #\my\project\note (1)\note\note\obj\Debug\note.pdb
+Z:\ACCP\DISM\C#\C #\my\project\note (1)\note\note\bin\Debug\note.exe
+Z:\ACCP\DISM\C#\C #\my\project\note (1)\note\note\bin\Debug\note.pdb
+Z:\ACCP\DISM\C#\C #\my\project\note (1)\note\note\obj\Debug\note.csprojResolveAssemblyReference.cache
+Z:\ACCP\DISM\C#\C #\my\project\note (1)\note\note\obj\Debug\note.Findandtreplacement.resources
+Z:\ACCP\DISM\C#\C #\my\project\note (1)\note\note\obj\Debug\note.Form1.resources
+Z:\ACCP\DISM\C#\C #\my\project\note (1)\note\note\obj\Debug\note.Properties.Resources.resources
+Z:\ACCP\DISM\C#\C #\my\project\note (1)\note\note\obj\Debug\note.csproj.GenerateResource.Cache
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\note (1)\note\note\obj\Debug\note.exe
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\note (1)\note\note\obj\Debug\note.pdb

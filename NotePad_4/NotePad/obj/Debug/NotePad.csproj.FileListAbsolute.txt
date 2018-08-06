@@ -1,0 +1,30 @@
+c:\users\asp\documents\visual studio 2012\Projects\NotePad\NotePad\bin\Debug\NotePad.exe.config
+c:\Users\asp\documents\visual studio 2012\Projects\NotePad\NotePad\bin\Debug\NotePad.exe
+c:\Users\asp\documents\visual studio 2012\Projects\NotePad\NotePad\bin\Debug\NotePad.pdb
+c:\Users\asp\documents\visual studio 2012\Projects\NotePad\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+c:\Users\asp\documents\visual studio 2012\Projects\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
+c:\Users\asp\documents\visual studio 2012\Projects\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+c:\Users\asp\documents\visual studio 2012\Projects\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache
+c:\Users\asp\documents\visual studio 2012\Projects\NotePad\NotePad\obj\Debug\NotePad.exe
+c:\Users\asp\documents\visual studio 2012\Projects\NotePad\NotePad\obj\Debug\NotePad.pdb
+Z:\ACCP\DISM\C#\C #\my\form\EXTRA\Forms\C# Win Forms\NotePad\NotePad\bin\Debug\NotePad.exe.config
+Z:\ACCP\DISM\C#\C #\my\form\EXTRA\Forms\C# Win Forms\NotePad\NotePad\obj\Debug\NotePad.exe
+Z:\ACCP\DISM\C#\C #\my\form\EXTRA\Forms\C# Win Forms\NotePad\NotePad\obj\Debug\NotePad.pdb
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\bin\Debug\NotePad.exe.config
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\bin\Debug\NotePad.exe
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\bin\Debug\NotePad.pdb
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\obj\Debug\NotePad.Form1.resources
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\obj\Debug\NotePad.exe
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\obj\Debug\NotePad.pdb
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\bin\Debug\NotePad.exe.config
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\obj\Debug\NotePad.exe
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\obj\Debug\NotePad.pdb
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\bin\Debug\NotePad.exe
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\bin\Debug\NotePad.pdb
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\obj\Debug\NotePad.Form1.resources
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\NotePad_4\NotePad\obj\Debug\NotePad.csproj.GenerateResource.Cache

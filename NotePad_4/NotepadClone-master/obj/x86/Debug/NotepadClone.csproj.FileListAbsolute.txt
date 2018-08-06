@@ -1,0 +1,20 @@
+C:\Users\sajida\Desktop\NotepadClone-master\bin\Debug\NotepadClone.exe.config
+C:\Users\sajida\Desktop\NotepadClone-master\bin\Debug\NotepadClone.exe
+C:\Users\sajida\Desktop\NotepadClone-master\bin\Debug\NotepadClone.pdb
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\NotepadClone.csprojResolveAssemblyReference.cache
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.About.resources
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\FileDialogExtenders.FileDialogControlBase.resources
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.FindDialog.resources
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.GoToLinePrompt.resources
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.Main.resources
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.SaveOpenDialog.resources
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.PageSetupHeaderFooter.resources
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.Properties.Resources.resources
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.ReplaceDialog.resources
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\MyNotepad.SaveChangesPrompt.resources
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\NotepadClone.csproj.GenerateResource.Cache
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\NotepadClone.exe
+C:\Users\sajida\Desktop\NotepadClone-master\obj\x86\Debug\NotepadClone.pdb
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\NotepadClone-master\bin\Debug\NotepadClone.exe.config
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\NotepadClone-master\obj\x86\Debug\NotepadClone.exe
+Z:\ACCP\DISM\C#\C #\my\form\NotePad_4\NotepadClone-master\obj\x86\Debug\NotepadClone.pdb
